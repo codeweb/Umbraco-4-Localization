@@ -15,8 +15,8 @@
     <key alias="disable">Disabilita</key>
     <key alias="emptyTrashcan">Svuota il cestino</key>
     <key alias="exportDocumentType">Esporta il tipo di documento</key>
-    <key alias="exportDocumentTypeAsCode">TRANSLATE ME: 'Export to .NET'</key>
-    <key alias="exportDocumentTypeAsCode-Full">TRANSLATE ME: 'Export to .NET'</key>
+    <key alias="exportDocumentTypeAsCode">Esporta in .NET'</key>
+    <key alias="exportDocumentTypeAsCode-Full">Esporta tutto in .NET'</key>
     <key alias="importDocumentType">Importa il tipo di documento</key>
     <key alias="importPackage">Importa il pacchetto</key>
     <key alias="liveEdit">Modifica in Area di Lavoro</key>
@@ -149,7 +149,7 @@
     <key alias="linkinternal">Link interno:</key>
     <key alias="linklocaltip">Quando usi il link locale, inserisci # di fronte al link</key>
     <key alias="linknewwindow">Apri in nuova finestra?</key>
-    <key alias="macroContainerSettings">TRANSLATE ME: 'Macro Settings'</key>
+    <key alias="macroContainerSettings">Impostazioni Macro</key>
     <key alias="macroDoesNotHaveProperties">Questa macro non contiene proprietà editabili</key>
     <key alias="paste">Incolla</key>
     <key alias="permissionsEdit">Edita il Permesso per</key>
@@ -158,7 +158,7 @@
     <key alias="recycleBinWarning">Gli elementi cancellati dal cestino non potranno essere recuperati.</key>
     <key alias="regexSearchError"><![CDATA[Il webservice <a target='_blank' href='http://regexlib.com'>regexlib.com</a> ha attualmente qualche problema, di cui non abbiamo il controllo. Siamo spiacevoli dell'inconveniente.]]></key>
     <key alias="regexSearchHelp">Ricerca un'espressione regolare da aggiungere al campo della form per poter validare il contenuto. Esempio: 'email, 'zip-code' 'url'</key>
-    <key alias="removeMacro">TRANSLATE ME: 'Remove Macro'</key>
+    <key alias="removeMacro">Rimuovi Macro</key>
     <key alias="requiredField">Campo obbligatorio</key>
     <key alias="sitereindexed">Il sito è stato reindicizzato</key>
     <key alias="siterepublished">Il sito è stato ripubblicato</key>
@@ -236,7 +236,7 @@
     <key alias="border">Bordo</key>
     <key alias="by">o</key>
     <key alias="cancel">Cancella</key>
-    <key alias="cellMargin">Margine Cella ( cell margin )</key>
+    <key alias="cellMargin">Margine Cella (cell margin)</key>
     <key alias="choose">Scegli</key>
     <key alias="close">Chiudi</key>
     <key alias="closewindow">Chiudi la finestra</key>
@@ -267,7 +267,7 @@
     <key alias="help">Aiuto</key>
     <key alias="icon">Icona</key>
     <key alias="import">Importa</key>
-    <key alias="innerMargin">Margine interno ( inner margin )</key>
+    <key alias="innerMargin">Margine interno (inner margin)</key>
     <key alias="insert">Inserisci</key>
     <key alias="install">Installa</key>
     <key alias="justify">Giustificato</key>
@@ -389,7 +389,7 @@
         <em>Optional Modules:</em> Top Navigation, Sitemap, Contact, Gallery.
         </small>
       ']]></key>
-    <key alias="runwayWhatIsRunway">TRANSLATE ME: 'What is Runway'</key>
+    <key alias="runwayWhatIsRunway">Approfondimento Runway</key>
     <key alias="step1">Passaggio 1/5 Accettazione licenza</key>
     <key alias="step2">Passaggio 2/5: Configurazione database</key>
     <key alias="step3">Passaggio 3/5: Controllo permessi dei file</key>
@@ -417,7 +417,7 @@ you can find plenty of resources on our getting started pages.']]></key>
     <key alias="displayName">Nome di cultura</key>
   </area>
   <area alias="lockout">
-    <key alias="lockoutWillOccur">TRANSLATE ME: 'You've been idle and logout will automatically occur in'</key>
+    <key alias="lockoutWillOccur">Sei stato inattivo e il logout avverrà automaticamente tra</key>
     <key alias="renewSession">TRANSLATE ME: 'Renew now to save your work'</key>
   </area>
   <area alias="login">
@@ -495,10 +495,10 @@ you can find plenty of resources on our getting started pages.']]></key>
          button and locating the package. umbraco packages usually have a ".umb" or ".zip" extension.
       ']]></key>
     <key alias="packageAuthor">Autore</key>
-    <key alias="packageDemonstration">TRANSLATE ME: 'Demonstration'</key>
-    <key alias="packageDocumentation">TRANSLATE ME: 'Documentation'</key>
+    <key alias="packageDemonstration">Dimostrazione</key>
+    <key alias="packageDocumentation">Documentazione</key>
     <key alias="packageMetaData">TRANSLATE ME: 'Package meta data'</key>
-    <key alias="packageName">TRANSLATE ME: 'Package name'</key>
+    <key alias="packageName">Nome del pacchetto</key>
     <key alias="packageNoItemsHeader">TRANSLATE ME: 'Package doesn't contain any items'</key>
     <key alias="packageNoItemsText"><![CDATA[TRANSLATE ME: 'This package file doesn't contain any items to uninstall.<br/><br/>
       You can safely remove this from the system by clicking "uninstall package" below.']]></key>
@@ -749,8 +749,8 @@ you can find plenty of resources on our getting started pages.']]></key>
     <key alias="datatype">Tipi di dato</key>
     <key alias="dictionary">Dictionary</key>
     <key alias="installedPackages">Pacchetti Installati</key>
-    <key alias="installSkin">TRANSLATE ME: 'Install skin'</key>
-    <key alias="installStarterKit">TRANSLATE ME: 'Install starter kit'</key>
+    <key alias="installSkin">Installa skin</key>
+    <key alias="installStarterKit">Installa starter kit</key>
     <key alias="languages">Lingue</key>
     <key alias="localPackage">Installa un pacchetto locale</key>
     <key alias="macros">Macros</key>
